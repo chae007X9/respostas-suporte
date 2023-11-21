@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "5dfdcf14d7f71681",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb5394d3728ca87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda2f92b522954dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Alterar-trocar certificado digital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b10065c385954fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dec7290e414e8b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eded5a0ad50f35a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fed4d0e5b76c1c57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e25629435cd9e887",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "215eae0bf9ae47ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "15cf6f762c0b5d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23dedf27f31a875e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notion/Alterar-trocar certificado digital.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96339038704d9c0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notion/Alterar-trocar certificado digital.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf3f4df685e367b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9bc4465c625490a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notion/Alterar-trocar certificado digital.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "eda2f92b522954dd",
+  "lastOpenFiles": [
+    "Notion/API - Disponibilizar clientes-revenda.md",
+    "Notion/554 5.7.1- Relay access denied.md",
+    "Coisas/Untitled 8.png",
+    "Coisas/Documentos.gif",
+    "Coisas/verificaczo_de_identidade....png",
+    "Coisas",
+    "Coisas/Verificacao_de_identidade....png",
+    "Coisas/Verificacao_biometrica.png",
+    "Coisas/Untitled 7.png",
+    "Coisas/Untitled 4.png",
+    "Coisas/Sem título.canvas",
+    "Coisas/Ill_Intercom.gif",
+    "Coisas/Documentos 1.gif",
+    "Notion/Biometria foto.md",
+    "Notion/Untitled 2.md",
+    "Notion/Untitled 3.md",
+    "Notion/Biometria erro.md",
+    "Notion/Autenticar-Validar assinatura.md",
+    "Notion/Beringela.md",
+    "Notion/Código não chegou no Outlook.md",
+    "Notion/Certificado digital Invisível.md",
+    "Notion/Certificado.md",
+    "Notion/Carimbo de tempo certificado.md",
+    "Notion/Cancelar-Trocar nota fiscal.md",
+    "Notion/Black Friday.md",
+    "Notion/Assinatura Pontinho.md",
+    "Notion/Assinatura Pessoa Física ou Jurídica.md",
+    "Notion/API não achou assinatura documento criador.md",
+    "Coisas/Sem título 1.canvas",
+    "Notion/Alterar-trocar certificado digital.md",
+    "Coisas/Filtrar_por.png",
+    "Coisas/Untitled.mp4",
+    "Notion/Erro WhatsApp 131026- Receiver is incapable of receiving this message.md",
+    "Notion/Onde ficam armazenados os documentos no Autentique.md",
+    "Notion/Extorno.md",
+    "Notion/Webhook - Bearer token.md",
+    "Notion/Como saber se é o signatário certo.md",
+    "Notion/Selfie Erro.md",
+    "Notion/Certificado estrangeiro.md",
+    "Notion"
+  ]
+}
