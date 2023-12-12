@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "5dfdcf14d7f71681",
+    "id": "2dd9e5ef75603810",
     "type": "split",
     "children": [
       {
-        "id": "ffb5394d3728ca87",
+        "id": "ca7da7052e542f39",
         "type": "tabs",
         "children": [
           {
-            "id": "eda2f92b522954dd",
+            "id": "20f65617d53d47fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Alterar-trocar certificado digital.md",
+                "file": "Notion/testete2423.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b10065c385954fb0",
+    "id": "3d09dbba34d8067b",
     "type": "split",
     "children": [
       {
-        "id": "dec7290e414e8b3d",
+        "id": "f1ce5ac07ca133d0",
         "type": "tabs",
         "children": [
           {
-            "id": "eded5a0ad50f35a8",
+            "id": "0f39aa9a0ce1afae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "fed4d0e5b76c1c57",
+            "id": "3aea8f3bea8200a9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "e25629435cd9e887",
+            "id": "09325f2011a73960",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "215eae0bf9ae47ac",
+    "id": "f255323641738986",
     "type": "split",
     "children": [
       {
-        "id": "15cf6f762c0b5d18",
+        "id": "eed73ee2145b0ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "23dedf27f31a875e",
+            "id": "69012f4299e2b635",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Alterar-trocar certificado digital.md",
+                "file": "Notion/testete2423.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "96339038704d9c0a",
+            "id": "1750970cded3aede",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Alterar-trocar certificado digital.md",
+                "file": "Notion/testete2423.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cf3f4df685e367b1",
+            "id": "dc506194433c3191",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "a9bc4465c625490a",
+            "id": "c2b9073989a7590c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Alterar-trocar certificado digital.md"
+                "file": "Notion/testete2423.md"
               }
             }
           }
@@ -138,56 +138,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-importer:Open Importer": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eda2f92b522954dd",
+  "active": "20f65617d53d47fc",
   "lastOpenFiles": [
-    "Notion/API - Disponibilizar clientes-revenda.md",
-    "Notion/554 5.7.1- Relay access denied.md",
-    "Coisas/Untitled 8.png",
-    "Coisas/Documentos.gif",
-    "Coisas/verificaczo_de_identidade....png",
-    "Coisas",
-    "Coisas/Verificacao_de_identidade....png",
-    "Coisas/Verificacao_biometrica.png",
-    "Coisas/Untitled 7.png",
-    "Coisas/Untitled 4.png",
-    "Coisas/Sem título.canvas",
-    "Coisas/Ill_Intercom.gif",
-    "Coisas/Documentos 1.gif",
-    "Notion/Biometria foto.md",
-    "Notion/Untitled 2.md",
-    "Notion/Untitled 3.md",
-    "Notion/Biometria erro.md",
-    "Notion/Autenticar-Validar assinatura.md",
-    "Notion/Beringela.md",
-    "Notion/Código não chegou no Outlook.md",
-    "Notion/Certificado digital Invisível.md",
-    "Notion/Certificado.md",
-    "Notion/Carimbo de tempo certificado.md",
-    "Notion/Cancelar-Trocar nota fiscal.md",
-    "Notion/Black Friday.md",
-    "Notion/Assinatura Pontinho.md",
-    "Notion/Assinatura Pessoa Física ou Jurídica.md",
-    "Notion/API não achou assinatura documento criador.md",
-    "Coisas/Sem título 1.canvas",
-    "Notion/Alterar-trocar certificado digital.md",
-    "Coisas/Filtrar_por.png",
-    "Coisas/Untitled.mp4",
-    "Notion/Erro WhatsApp 131026- Receiver is incapable of receiving this message.md",
-    "Notion/Onde ficam armazenados os documentos no Autentique.md",
-    "Notion/Extorno.md",
+    "Notion/testete2423.md",
+    "Notion/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
+    "Notion/Wordpress API Plugin.md",
     "Notion/Webhook - Bearer token.md",
-    "Notion/Como saber se é o signatário certo.md",
+    "Notion/Ver endereço do signatário.md",
+    "Notion/Ver documentos de outros usuários.md",
+    "Notion/Venda de Certificados.md",
+    "Notion/Vencimento Boleto.md",
+    "Notion/Validar PDF assinado pelo Autentique.md",
+    "Notion/User problema.md",
+    "Notion/Untitled.md",
+    "Notion/Tipos de documentos aceitos.md",
+    "Notion/Tela preta IDANALYZER foto.md",
+    "Notion/Suspeita de Fraude.md",
+    "Notion/Suporte ICP-Brasil.md",
+    "Notion/Sistema de pagamento CNPJ diferente.md",
     "Notion/Selfie Erro.md",
-    "Notion/Certificado estrangeiro.md",
-    "Notion"
+    "Notion/Segurança ataque cibernético.md",
+    "Notion/Saved Response.md",
+    "Notion/SandBox separado.md",
+    "Notion/SafeID.md",
+    "Notion/SMS rejeitado muitas vezes.md",
+    "Notion/SLA.md",
+    "Notion/Rubrica API.md",
+    "Notion/Responsabilidade Autentique.md",
+    "Notion/Representante duas empresas (assinar 2x).md",
+    "Notion",
+    "Coisas/verificaczo_de_identidade....png",
+    "Coisas/verificacao_de_identidade_....png",
+    "Coisas/poinal.outentiqus.com.br.png",
+    "Coisas/para_mim.png",
+    "Coisas/Verificacao_de_identidade....png",
+    "Coisas/Verificacao_de_identidade... 1.png",
+    "Coisas/Verificacao_biometrica.png",
+    "Coisas/Untitled.png",
+    "Coisas/Untitled.mp4",
+    "Coisas/Untitled.jpeg",
+    "Coisas/Untitled 9.png",
+    "Coisas/Sem título.canvas",
+    "Coisas/Sem título 1.canvas",
+    "Coisas"
   ]
 }
