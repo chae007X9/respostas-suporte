@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Venda de Certificados.md",
+                "file": "Notas/Dúvida/Vencimento Boleto.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Venda de Certificados.md",
+                "file": "Notas/Dúvida/Vencimento Boleto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Venda de Certificados.md",
+                "file": "Notas/Dúvida/Vencimento Boleto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Venda de Certificados.md"
+                "file": "Notas/Dúvida/Vencimento Boleto.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20f65617d53d47fc",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
+    "Notas/Dúvida/Venda de Certificados.md",
     "Notas/Plataforma/Ver documentos de outros usuários.md",
     "Notas/Dúvida/Ver endereço do signatário.md",
     "Notas/Dúvida",
@@ -158,8 +159,7 @@
     "Notas/User problema.md",
     "Notas/Untitled.md",
     "Notas/Validar PDF assinado pelo Autentique.md",
-    "Notas/Vencimento Boleto.md",
-    "Notas/Venda de Certificados.md",
+    "Notas/Dúvida/Vencimento Boleto.md",
     "Notas/API/Webhook - Bearer token.md",
     "Notas/API/Wordpress API Plugin.md",
     "Notas/API",
