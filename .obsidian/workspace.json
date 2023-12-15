@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Suspeita de Fraude.md",
+                "file": "Notas/Dúvida/Suspeita de Fraude.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Suspeita de Fraude.md",
+                "file": "Notas/Dúvida/Suspeita de Fraude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Suspeita de Fraude.md",
+                "file": "Notas/Dúvida/Suspeita de Fraude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Suspeita de Fraude.md"
+                "file": "Notas/Dúvida/Suspeita de Fraude.md"
               }
             }
           }
@@ -147,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20f65617d53d47fc",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
     "Notas/Dúvida/Tela preta IDANALYZER foto.md",
     "Notas/Dúvida/Tipos de documentos aceitos.md",
@@ -168,7 +168,7 @@
     "Notas/API",
     "Notion/Sem título.md",
     "Notion/testete24.md",
-    "Notas/Suspeita de Fraude.md",
+    "Notas/Dúvida/Suspeita de Fraude.md",
     "Notas/Suporte ICP-Brasil.md",
     "Notas/Sistema de pagamento CNPJ diferente.md",
     "Notas/Selfie Erro.md",
