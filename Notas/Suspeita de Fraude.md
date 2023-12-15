@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T09:39
-Last Updated: 2023-11-16T09:39
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Qual é o email?
 
   
@@ -20,8 +14,8 @@ Foi reto pro nosso SPAM, aparentemente o pessoal está enviando emails com um en
 
   
 
-Do nosso lado nós usamos uma política de DMARC no nosso serviço de emails que determina que os servidores de emails rejeitam emails recebidos de domínios @autentique.com.br que não estejam autenticados com nossa chave DKIM, mas aparentemente o domínio .pr.gov.br não usa isso, é meio preocupante =]
+Do nosso lado nós usamos uma política de DMARC no nosso serviço de emails que determina que os servidores de emails rejeitam emails recebidos de domínios @autentique.com.br que não estejam autenticados com nossa chave DKIM, mas aparentemente o domínio xxxxx não usa isso, é meio preocupante =]
 
   
 
-Isso meio que permite que qualquer pessoa envie emails se passando por .pr.gov.br e a única coisa que acontece é esse email provavelmente cair na caixa de SPAM
+Isso meio que permite que qualquer pessoa envie emails se passando por xxxxx e a única coisa que acontece é esse email provavelmente cair na caixa de SPAM
