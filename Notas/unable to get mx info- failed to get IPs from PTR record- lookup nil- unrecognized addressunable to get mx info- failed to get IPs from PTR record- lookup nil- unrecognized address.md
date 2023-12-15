@@ -20,4 +20,4 @@ O signatário pode entrar em contato com a equipe de suporte de e-mail ou admini
 
 "The [xxxxx.com.br](http:/xxxxx.com.br/) server blocked this message from being delivered."
 
-Isso indica que o servidor de e-mail do domínio "[juntapapel.com.br](http://juntapapel.com.br/)" bloqueou a mensagem. Pode haver muitas razões para isso, como configurações de servidor restritivas, listas negras de remetentes, políticas de spam, etc.
+Isso indica que o servidor de e-mail do domínio "[xxxxxx.com.br](http://xxxxxx.com.br/)" bloqueou a mensagem. Pode haver muitas razões para isso, como configurações de servidor restritivas, listas negras de remetentes, políticas de spam, etc.
