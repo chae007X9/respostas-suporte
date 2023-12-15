@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/SLA.md",
+                "file": "Notas/Dúvida/Tem SLA.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/SLA.md",
+                "file": "Notas/Dúvida/Tem SLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/SLA.md",
+                "file": "Notas/Dúvida/Tem SLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/SLA.md"
+                "file": "Notas/Dúvida/Tem SLA.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20f65617d53d47fc",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
+    "Notas/SLA.md",
     "Notas/Dúvida/SMS rejeitado muitas vezes.md",
     "Notas/Dúvida/Suporte ICP-Brasil.md",
     "Notas/Dúvida/Suspeita de Fraude.md",
@@ -177,7 +178,7 @@
     "Notas/Saved Response.md",
     "Notas/SandBox separado.md",
     "Notas/SafeID.md",
-    "Notas/SLA.md",
+    "Notas/Dúvida/Tem SLA.md",
     "Notas/Rubrica API.md",
     "Notas",
     "Coisas/verificaczo_de_identidade....png",
