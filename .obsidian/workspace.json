@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Suspeita de Fraude.md",
+                "file": "Notas/SLA.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Suspeita de Fraude.md",
+                "file": "Notas/SLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Suspeita de Fraude.md",
+                "file": "Notas/SLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Suspeita de Fraude.md"
+                "file": "Notas/SLA.md"
               }
             }
           }
@@ -147,8 +147,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "20f65617d53d47fc",
   "lastOpenFiles": [
+    "Notas/Dúvida/SMS rejeitado muitas vezes.md",
+    "Notas/Dúvida/Suporte ICP-Brasil.md",
+    "Notas/Dúvida/Suspeita de Fraude.md",
     "Notas/Dúvida/Tela preta IDANALYZER foto.md",
     "Notas/Dúvida/Tipos de documentos aceitos.md",
     "Notas/Help/User problema.md",
@@ -168,15 +171,12 @@
     "Notas/API",
     "Notion/Sem título.md",
     "Notion/testete24.md",
-    "Notas/Dúvida/Suspeita de Fraude.md",
-    "Notas/Suporte ICP-Brasil.md",
     "Notas/Sistema de pagamento CNPJ diferente.md",
     "Notas/Selfie Erro.md",
     "Notas/Segurança ataque cibernético.md",
     "Notas/Saved Response.md",
     "Notas/SandBox separado.md",
     "Notas/SafeID.md",
-    "Notas/SMS rejeitado muitas vezes.md",
     "Notas/SLA.md",
     "Notas/Rubrica API.md",
     "Notas",

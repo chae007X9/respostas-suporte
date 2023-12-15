@@ -148,7 +148,7 @@ Every row is its own Notion page, where you can add any content you want.
 |[[Segurança ataque cibernético]]||CChaline Reis|November 16, 2023 9:59 AM|CChaline Reis|November 16, 2023 9:59 AM|
 |[[Selfie Erro]]||Cristian Scopel|April 17, 2023 2:59 PM|CChaline Reis|April 18, 2023 11:29 AM|
 |[[Sistema de pagamento CNPJ diferente]]||Cristian Scopel|April 17, 2023 4:01 PM|CChaline Reis|April 18, 2023 11:29 AM|
-|[[SLA]]||Cristian Scopel|April 17, 2023 2:59 PM|Cristian Scopel|April 17, 2023 2:59 PM|
+|[[Tem SLA]]||Cristian Scopel|April 17, 2023 2:59 PM|Cristian Scopel|April 17, 2023 2:59 PM|
 |[[SMS rejeitado muitas vezes]]||CChaline Reis|November 16, 2023 10:49 AM|CChaline Reis|November 16, 2023 10:49 AM|
 |[[Suporte ICP-Brasil]]||Cristian Scopel|April 17, 2023 2:57 PM|Cristian Scopel|April 17, 2023 2:57 PM|
 |[[Suspeita de Fraude]]||CChaline Reis|November 16, 2023 9:39 AM|CChaline Reis|November 16, 2023 9:39 AM|
