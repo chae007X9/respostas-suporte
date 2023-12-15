@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Ver endereço do signatário.md",
-                "mode": "preview",
+                "file": "Notas/Ver documentos de outros usuários.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Ver endereço do signatário.md",
+                "file": "Notas/Ver documentos de outros usuários.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Ver endereço do signatário.md",
+                "file": "Notas/Ver documentos de outros usuários.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Ver endereço do signatário.md"
+                "file": "Notas/Ver documentos de outros usuários.md"
               }
             }
           }
@@ -149,33 +149,33 @@
   },
   "active": "20f65617d53d47fc",
   "lastOpenFiles": [
+    "Notas/Ver endereço do signatário.md",
+    "Notas/API/Webhook - Bearer token.md",
+    "Notas/API/Wordpress API Plugin.md",
+    "Notas/API",
     "Notion/Sem título.md",
-    "Notion/Ver endereço do signatário.md",
-    "Notion/Wordpress API Plugin.md",
-    "Notion/Webhook - Bearer token.md",
     "Notion/testete24.md",
-    "Notion/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
-    "Notion/Ver documentos de outros usuários.md",
-    "Notion/Venda de Certificados.md",
-    "Notion/Vencimento Boleto.md",
-    "Notion/Validar PDF assinado pelo Autentique.md",
-    "Notion/User problema.md",
-    "Notion/Untitled.md",
-    "Notion/Tipos de documentos aceitos.md",
-    "Notion/Tela preta IDANALYZER foto.md",
-    "Notion/Suspeita de Fraude.md",
-    "Notion/Suporte ICP-Brasil.md",
-    "Notion/Sistema de pagamento CNPJ diferente.md",
-    "Notion/Selfie Erro.md",
-    "Notion/Segurança ataque cibernético.md",
-    "Notion/Saved Response.md",
-    "Notion/SandBox separado.md",
-    "Notion/SafeID.md",
-    "Notion/SMS rejeitado muitas vezes.md",
-    "Notion/SLA.md",
-    "Notion/Rubrica API.md",
-    "Notion/Responsabilidade Autentique.md",
-    "Notion",
+    "Notas/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
+    "Notas/Ver documentos de outros usuários.md",
+    "Notas/Venda de Certificados.md",
+    "Notas/Vencimento Boleto.md",
+    "Notas/Validar PDF assinado pelo Autentique.md",
+    "Notas/User problema.md",
+    "Notas/Untitled.md",
+    "Notas/Tipos de documentos aceitos.md",
+    "Notas/Tela preta IDANALYZER foto.md",
+    "Notas/Suspeita de Fraude.md",
+    "Notas/Suporte ICP-Brasil.md",
+    "Notas/Sistema de pagamento CNPJ diferente.md",
+    "Notas/Selfie Erro.md",
+    "Notas/Segurança ataque cibernético.md",
+    "Notas/Saved Response.md",
+    "Notas/SandBox separado.md",
+    "Notas/SafeID.md",
+    "Notas/SMS rejeitado muitas vezes.md",
+    "Notas/SLA.md",
+    "Notas/Rubrica API.md",
+    "Notas",
     "Coisas/verificaczo_de_identidade....png",
     "Coisas/verificacao_de_identidade_....png",
     "Coisas/poinal.outentiqus.com.br.png",
