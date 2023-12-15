@@ -6,7 +6,7 @@ O "lookup <nil>: unrecognized address" sugere que a tentativa de pesquisa do end
 
   
 
-Isso poderia indicar que o servidor de destino ([juntapapel.com.br](http://juntapapel.com.br/)) tem alguma configuração de DNS que não está correta, ou pode ser um problema temporário de resolução de DNS.
+Isso poderia indicar que o servidor de destino ([xxxxxxx.com.br](http://xxxxxxx.com.br/)) tem alguma configuração de DNS que não está correta, ou pode ser um problema temporário de resolução de DNS.
 
   
 
@@ -18,6 +18,6 @@ O signatário pode entrar em contato com a equipe de suporte de e-mail ou admini
 
   
 
-"The [juntapapel.com.br](http://juntapapel.com.br/) server blocked this message from being delivered."
+"The [xxxxx.com.br](http:/xxxxx.com.br/) server blocked this message from being delivered."
 
 Isso indica que o servidor de e-mail do domínio "[juntapapel.com.br](http://juntapapel.com.br/)" bloqueou a mensagem. Pode haver muitas razões para isso, como configurações de servidor restritivas, listas negras de remetentes, políticas de spam, etc.
