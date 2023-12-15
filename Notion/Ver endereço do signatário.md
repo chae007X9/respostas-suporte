@@ -1,24 +1,14 @@
----
-Date Created: 2023-11-16T10:05
-Last Updated: 2023-11-16T10:06
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Nós utilizamos as informações oferecidas pelo provedor, como o IP e a geolocalização dele. Entretanto, outras informações o próprio provedor é responsável por oferecer.
 
-  
 
 EXPLICAÇÃO
 
   
-
 Esta no marco Civil da Internet: Art. 7º O acesso à internet é essencial ao exercício da cidadania, e ao usuário são assegurados os seguintes direitos:
 
   
-
 VI - informações claras e completas constantes dos contratos de prestação de serviços, com detalhamento sobre o regime de proteção aos registros de conexão e aos registros de acesso a aplicações de internet, bem como sobre práticas de gerenciamento da rede que possam afetar sua qualidade;
 
-  
 
 ???????
 
