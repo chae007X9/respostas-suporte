@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T11:44
-Last Updated: 2023-11-16T11:45
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Percebi que você está insatisfeito com o atendimento, há algo que podemos fazer para auxiliar?
 
   

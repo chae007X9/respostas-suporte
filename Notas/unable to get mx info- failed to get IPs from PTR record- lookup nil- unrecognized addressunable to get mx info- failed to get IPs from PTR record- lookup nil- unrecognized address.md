@@ -1,9 +1,3 @@
----
-Date Created: 2023-08-21T11:16
-Last Updated: 2023-11-10T09:08
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Referente ao signatário XXXXX este é o motivo técnico da falha: "MX" refere-se a registros de troca de correio, que são usados para rotear e-mails para o servidor de e-mail correto. Um registro PTR (ponteiro) é usado para realizar uma pesquisa reversa de DNS (do endereço IP para o nome de domínio). A mensagem de erro sugere que houve uma falha ao tentar obter informações de registros MX a partir de um registro PTR.
 
   
