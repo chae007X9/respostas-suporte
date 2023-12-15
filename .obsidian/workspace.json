@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Tipos de documentos aceitos.md",
+                "file": "Notas/Tela preta IDANALYZER foto.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Tipos de documentos aceitos.md",
+                "file": "Notas/Tela preta IDANALYZER foto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Tipos de documentos aceitos.md",
+                "file": "Notas/Tela preta IDANALYZER foto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Tipos de documentos aceitos.md"
+                "file": "Notas/Tela preta IDANALYZER foto.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "20f65617d53d47fc",
   "lastOpenFiles": [
+    "Notas/Dúvida/Tipos de documentos aceitos.md",
     "Notas/Help/User problema.md",
     "Notas/Help",
     "Notas/Dúvida/Vencimento Boleto.md",
@@ -166,7 +167,6 @@
     "Notas/API",
     "Notion/Sem título.md",
     "Notion/testete24.md",
-    "Notas/Dúvida/Tipos de documentos aceitos.md",
     "Notas/Tela preta IDANALYZER foto.md",
     "Notas/Suspeita de Fraude.md",
     "Notas/Suporte ICP-Brasil.md",
