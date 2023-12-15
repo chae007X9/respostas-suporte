@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
+                "file": "Notas/ERRO Email/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
+                "file": "Notas/ERRO Email/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
+                "file": "Notas/ERRO Email/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md"
+                "file": "Notas/ERRO Email/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20f65617d53d47fc",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
+    "Notas/ERRO Email",
     "Notas/User problema.md",
     "Notas/Untitled.md",
     "Notas/Validar PDF assinado pelo Autentique.md",
@@ -161,7 +162,7 @@
     "Notas/API",
     "Notion/Sem título.md",
     "Notion/testete24.md",
-    "Notas/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
+    "Notas/ERRO Email/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
     "Notas/Tipos de documentos aceitos.md",
     "Notas/Tela preta IDANALYZER foto.md",
     "Notas/Suspeita de Fraude.md",
