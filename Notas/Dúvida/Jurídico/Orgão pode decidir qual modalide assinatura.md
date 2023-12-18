@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T09:21
-Last Updated: 2023-11-16T09:23
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 O órgão pode definir a política de assinatura entre assinatura simples ou avançada
 
   
@@ -41,8 +35,6 @@ E em outros casos que a lei exigir (como é o caso de receitas e laudos médicos
 
   
 
-EXPLICACÃO ——————————————————————————————————————————————————————————
-
-  
+EXPLICACÃO ——————————————————————————————————————————
 
 Ele não pode negar, mas pode optar por qual aceitar
