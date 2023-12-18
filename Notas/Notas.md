@@ -132,7 +132,7 @@ Every row is its own Notion page, where you can add any content you want.
 |[[Problema plano (comprou e não atualizou)]]||CChaline Reis|November 16, 2023 11:25 AM|CChaline Reis|November 16, 2023 11:25 AM|
 |[[Processo empresa VS funcionário]]||CChaline Reis|November 16, 2023 9:58 AM|CChaline Reis|November 16, 2023 9:58 AM|
 |[[Pré-Cadastro]]||Cristian Scopel|April 17, 2023 2:09 PM|Cristian Scopel|April 17, 2023 2:09 PM|
-|[[QRCode certificado]]||Cristian Scopel|April 17, 2023 3:37 PM|Cristian Scopel|April 17, 2023 3:37 PM|
+|[[QRCode não aparece na assinatura com certificado]]||Cristian Scopel|April 17, 2023 3:37 PM|Cristian Scopel|April 17, 2023 3:37 PM|
 |[[QRCode páginas]]||Cristian Scopel|April 17, 2023 3:29 PM|CChaline Reis|April 18, 2023 11:25 AM|
 |[[Quem gerou as frases da tela de carregamento]]||CChaline Reis|November 16, 2023 10:50 AM|CChaline Reis|November 16, 2023 10:50 AM|
 |[[Receita médica]]||CChaline Reis|November 16, 2023 11:17 AM|CChaline Reis|November 16, 2023 11:17 AM|

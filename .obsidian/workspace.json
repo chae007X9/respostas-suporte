@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/QRCode certificado.md",
+                "file": "Notas/Processo empresa VS funcionário.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/QRCode certificado.md",
+                "file": "Notas/Processo empresa VS funcionário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/QRCode certificado.md",
+                "file": "Notas/Processo empresa VS funcionário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/QRCode certificado.md"
+                "file": "Notas/Processo empresa VS funcionário.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Dúvida/QRCode não aparece na assinatura com certificado.md",
+    "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
     "Notas/Dúvida/Quem gerou as frases da tela de carregamento.md",
     "Notas/QRCode páginas.md",
     "Notas/Dúvida/Receita médica.md",
@@ -159,7 +161,6 @@
     "Notas/Dúvida/Representante duas empresas (assinar 2x).md",
     "Notas/Help/User problema.md",
     "Notas/Dúvida/Jurídico/Responsabilidade Autentique.md",
-    "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Dúvida/Venda de Certificados.md",
     "Notas/Dúvida/Vencimento Boleto.md",
@@ -178,7 +179,6 @@
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Notas/APP autentique (atalho).md",
-    "Notas/Saved Response.md",
     "Notas/Help",
     "Notas/Dúvida",
     "Notas/Plataforma",
