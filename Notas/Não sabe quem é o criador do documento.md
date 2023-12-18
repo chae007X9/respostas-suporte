@@ -1,12 +1,4 @@
----
-Date Created: 2023-04-17T15:29
-Last Updated: 2023-04-18T11:11
-Created By: Cristian Scopel
-Last Edited By: CChaline Reis
----
 Basta entrar em contato com o criador do documento solicitando que envie novamente.
-
-  
 
 Vc pode entrar em contato com eles para perguntar quem enviou o documento.
 

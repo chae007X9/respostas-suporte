@@ -1,0 +1,1 @@
+Desculpe, não temos conhecimento de algum incidente nesse sentido. Você teria algum exemplo para analisarmos?
