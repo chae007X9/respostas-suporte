@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/SandBox separado.md",
+                "file": "Notas/APP autentique (atalho).md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "app",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/SandBox separado.md",
+                "file": "Notas/APP autentique (atalho).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/SandBox separado.md",
+                "file": "Notas/APP autentique (atalho).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/SandBox separado.md"
+                "file": "Notas/APP autentique (atalho).md"
               }
             }
           }
@@ -149,6 +150,7 @@
   },
   "active": "20f65617d53d47fc",
   "lastOpenFiles": [
+    "Notas/SandBox separado.md",
     "Notas/Help/Segurança ataque cibernético.md",
     "Notas/Saved Response.md",
     "Notas/Dúvida/Sistema de pagamento CNPJ diferente do Autentique.md",
@@ -177,7 +179,6 @@
     "Notas/API",
     "Notion/Sem título.md",
     "Notion/testete24.md",
-    "Notas/SandBox separado.md",
     "Notas/SafeID.md",
     "Notas/Rubrica API.md",
     "Notas",
