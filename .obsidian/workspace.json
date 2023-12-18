@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Help/User problema.md",
+                "file": "Notas/Dúvida/Ver endereço do signatário.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Help/User problema.md",
+                "file": "Notas/Dúvida/Ver endereço do signatário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Help/User problema.md",
+                "file": "Notas/Dúvida/Ver endereço do signatário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Help/User problema.md"
+                "file": "Notas/Dúvida/Ver endereço do signatário.md"
               }
             }
           }
@@ -149,31 +149,30 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Dúvida/Venda de Certificados.md",
+    "Notas/Dúvida/Vencimento Boleto.md",
+    "Notas/Dúvida/Tem SLA.md",
+    "Notas/Dúvida/Tela preta IDANALYZER foto.md",
+    "Notas/Dúvida/Suspeita de Fraude.md",
+    "Notas/Dúvida/Suporte ICP-Brasil.md",
+    "Notas/Dúvida/SMS rejeitado muitas vezes.md",
+    "Notas/Dúvida/Sistema de pagamento CNPJ diferente do Autentique.md",
+    "Notas/Dúvida/SafeID.md",
+    "Notas/Help/User problema.md",
     "Notas/Help/Segurança ataque cibernético.md",
     "Notas/Responsabilidade Autentique.md",
     "Notas/Jurídico",
     "Notas/API/Rubrica API.md",
-    "Notas/Dúvida/SafeID.md",
     "Notas/API/SandBox separado.md",
     "2023-12-18.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Notas/APP autentique (atalho).md",
     "Notas/Saved Response.md",
-    "Notas/Dúvida/Sistema de pagamento CNPJ diferente do Autentique.md",
     "Notas/Selfie Erro.md",
-    "Notas/Dúvida/SLA.md",
-    "Notas/Dúvida/Tem SLA.md",
-    "Notas/Dúvida/SMS rejeitado muitas vezes.md",
-    "Notas/Dúvida/Suporte ICP-Brasil.md",
-    "Notas/Dúvida/Suspeita de Fraude.md",
-    "Notas/Dúvida/Tela preta IDANALYZER foto.md",
     "Notas/Dúvida/Tipos de documentos aceitos.md",
-    "Notas/Help/User problema.md",
     "Notas/Help",
-    "Notas/Dúvida/Vencimento Boleto.md",
     "Notas/Validar PDF assinado pelo Autentique.md",
-    "Notas/Dúvida/Venda de Certificados.md",
     "Notas/Plataforma/Ver documentos de outros usuários.md",
     "Notas/Dúvida/Ver endereço do signatário.md",
     "Notas/Dúvida",

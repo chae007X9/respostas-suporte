@@ -1,1 +1,0 @@
-Desculpe, nós não oferecemos nenhum SLA nos planos atuais do Autentique. Mas você pode conferir nossa página de status e relatos de incidentes em: [https://autentique.statuspage.io](https://autentique.statuspage.io/)
