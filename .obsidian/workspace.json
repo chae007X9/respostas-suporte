@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Formulário signatário preencher os dados.md",
+                "file": "Notas/Não sei porque recebi um documento.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Formulário signatário preencher os dados.md",
+                "file": "Notas/Não sei porque recebi um documento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Formulário signatário preencher os dados.md",
+                "file": "Notas/Não sei porque recebi um documento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Formulário signatário preencher os dados.md"
+                "file": "Notas/Não sei porque recebi um documento.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Dúvida/Formulário signatário preencher os dados.md",
     "Notas/Plataforma/Nome do signatário não muda.md",
     "Notas/Dúvida/Onde ficam armazenados os documentos no Autentique.md",
     "Notas/Notas.md",
@@ -174,7 +175,6 @@
     "Notas/Dúvida/Referências para validação AD-RV AD-RC.md",
     "Notas/Dúvida/Representante duas empresas (assinar 2x).md",
     "Notas/Help/User problema.md",
-    "Notas/Dúvida/Jurídico/Responsabilidade Autentique.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
