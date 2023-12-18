@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Mesclar contas.md",
+                "file": "Notas/LocalWeb.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Mesclar contas.md",
+                "file": "Notas/LocalWeb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Mesclar contas.md",
+                "file": "Notas/LocalWeb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Mesclar contas.md"
+                "file": "Notas/LocalWeb.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Plataforma/Mesclar contas.md",
+    "Notas/Login WhatsApp-Número de celular.md",
     "Notas/Dúvida/Receita médica animal.md",
     "Notas/Dúvida/Receita médica humano.md",
     "Notas/Dúvida/Plano várias empresas.md",
@@ -173,8 +175,6 @@
     "Notas/Dúvida/Problema plano (comprou e não atualizou).md",
     "Notas/Pré-Cadastro.md",
     "Notas/Dúvida/Jurídico/Processo empresa VS funcionário.md",
-    "Notas/Dúvida/QRCode não aparece na assinatura com certificado.md",
-    "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
