@@ -1,9 +1,3 @@
----
-Date Created: 2023-09-06T10:40
-Last Updated: 2023-09-19T10:28
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Esse erro aparece por um dos seguintes motivos:
 
 - O número de telefone do destinatário não está registrado no WhatsApp.

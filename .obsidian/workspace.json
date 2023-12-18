@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Excluir documento.md",
+                "file": "Notas/Erro WhatsApp 131026- Receiver is incapable of receiving this message.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Excluir documento.md",
+                "file": "Notas/Erro WhatsApp 131026- Receiver is incapable of receiving this message.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Excluir documento.md",
+                "file": "Notas/Erro WhatsApp 131026- Receiver is incapable of receiving this message.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Excluir documento.md"
+                "file": "Notas/Erro WhatsApp 131026- Receiver is incapable of receiving this message.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87a49fd68b7b2db5",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
+    "Notas/Erro Whatsapp",
+    "Notas/Dúvida/Trocar documento.md",
     "Notas/Erro WhatsApp 131026- Receiver is incapable of receiving this message.md",
-    "Notas/Excluir documento.md",
     "Notas/Plataforma/Trocar  documento.md",
     "Notas/Dúvida/Jurídico/Falsificação assinatura.md",
     "Notas/Extorno.md",
@@ -174,7 +175,6 @@
     "Notas/Dúvida/Receita médica humano.md",
     "Notas/Dúvida/Plano várias empresas.md",
     "Notas/Plataforma/Mudar ordem de assinatura.md",
-    "Notas/ERRO Email/MX.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
