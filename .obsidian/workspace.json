@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Perfil por que muda os dados da conta.md",
+                "file": "Notas/Mesma conta - perfil (alterar os dados).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Perfil por que muda os dados da conta.md",
+                "file": "Notas/Mesma conta - perfil (alterar os dados).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Perfil por que muda os dados da conta.md",
+                "file": "Notas/Mesma conta - perfil (alterar os dados).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Perfil por que muda os dados da conta.md"
+                "file": "Notas/Mesma conta - perfil (alterar os dados).md"
               }
             }
           }
@@ -147,8 +147,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9e26e468edf133be",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
+    "Notas/Dúvida/Perfil por que muda os dados da conta.md",
+    "Notas/Mesma conta - perfil (alterar os dados).md",
     "Notas/Dúvida/Plano várias empresas.md",
     "Notas/Plano Governo.md",
     "Notas/Dúvida/Prazo de validade assinatura eletrônica avançada.md",
@@ -174,8 +176,6 @@
     "Notas/Dúvida/Tem SLA.md",
     "Notas/Dúvida/Tela preta IDANALYZER foto.md",
     "Notas/Dúvida/Suspeita de Fraude.md",
-    "Notas/Dúvida/Suporte ICP-Brasil.md",
-    "Notas/Dúvida/SMS rejeitado muitas vezes.md",
     "Notas/Jurídico",
     "Sem título.canvas",
     "Sem título 1.canvas",

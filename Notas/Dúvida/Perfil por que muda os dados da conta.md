@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T16:02
-Last Updated: 2023-04-18T11:18
-Created By: Cristian Scopel
-Last Edited By: CChaline Reis
----
 Os dados do usuário são sempre mantidos os mais atuais da conta. No histórico do documento sempre consta os dados que a pessoa possuia no momento que assinou o documento, mas no card do signatário são exibidos sempre os dados mais atuais da conta. Para que seja possível que o signatário ratifique dados incorretos ou outras questões legais que podem envolver a mudança dos dados da pessoa (como novo nome social, mudança de CPF...)
 
   
