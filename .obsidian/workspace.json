@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Getting Started.md",
+                "file": "Notas/Dúvida/Foto explicação.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Getting Started.md",
+                "file": "Notas/Dúvida/Foto explicação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Getting Started.md",
+                "file": "Notas/Dúvida/Foto explicação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Getting Started.md"
+                "file": "Notas/Dúvida/Foto explicação.md"
               }
             }
           }
@@ -149,7 +149,10 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Foto é necessário.md",
+    "Notas/Dúvida/Foto explicação.md",
     "Notas/Dúvida/Homologação governo.md",
+    "Notas/Getting Started.md",
     "Notas/Dúvida/Horelites.md",
     "Notas/Dúvida/ICP - Brasil.md",
     "Notas/Dúvida/Ver quem emitiu o certificado digital.md",
@@ -172,9 +175,6 @@
     "Notas/Help/Não sei como reagir.md",
     "Notas/Help/Não sei porque recebi um documento.md",
     "Notas/Dúvida/Formulário signatário preencher os dados.md",
-    "Notas/Plataforma/Nome do signatário não muda.md",
-    "Notas/Dúvida/Onde ficam armazenados os documentos no Autentique.md",
-    "Notas/Notas.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",

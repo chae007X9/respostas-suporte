@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T10:44
-Last Updated: 2023-11-16T10:45
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 **Documento, selfie e prova de vida**
 
 O signatário precisará anexar um documento de identificação com foto, tirar uma selfie com seu smartphone e realizar uma prova de vida. A foto do documento será automaticamente comparada com a selfie para verificar o grau de semelhança
