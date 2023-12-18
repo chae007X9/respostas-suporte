@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9e26e468edf133be",
+  "active": "3aea8f3bea8200a9",
   "lastOpenFiles": [
     "Notas/API/SandBox separado.md",
     "2023-12-18.md",
