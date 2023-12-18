@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Responsabilidade Autentique.md",
+                "file": "Notas/Help/User problema.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Responsabilidade Autentique.md",
+                "file": "Notas/Help/User problema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Responsabilidade Autentique.md",
+                "file": "Notas/Help/User problema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Responsabilidade Autentique.md"
+                "file": "Notas/Help/User problema.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Help/Segurança ataque cibernético.md",
+    "Notas/Responsabilidade Autentique.md",
+    "Notas/Jurídico",
     "Notas/API/Rubrica API.md",
     "Notas/Dúvida/SafeID.md",
     "Notas/API/SandBox separado.md",
@@ -156,7 +159,6 @@
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Notas/APP autentique (atalho).md",
-    "Notas/Help/Segurança ataque cibernético.md",
     "Notas/Saved Response.md",
     "Notas/Dúvida/Sistema de pagamento CNPJ diferente do Autentique.md",
     "Notas/Selfie Erro.md",
@@ -180,7 +182,6 @@
     "Notas/ERRO Email",
     "Notas/Untitled.md",
     "Notas/API/Webhook - Bearer token.md",
-    "Notas/API/Wordpress API Plugin.md",
     "Notas/API",
     "Notas",
     "Coisas/verificaczo_de_identidade....png",
