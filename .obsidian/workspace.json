@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Não recebe email.md",
-                "mode": "source",
+                "file": "Notas/Mudar ordem de assinatura.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Não recebe email.md",
+                "file": "Notas/Mudar ordem de assinatura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Não recebe email.md",
+                "file": "Notas/Mudar ordem de assinatura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Não recebe email.md"
+                "file": "Notas/Mudar ordem de assinatura.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/ERRO Email/MX.md",
+    "Notas/Plataforma/Não entra ou desconecta.md",
+    "Notas/ERRO Email/Não recebe email.md",
     "Notas/Help/Não sabe quem é o criador do documento.md",
     "Notas/Help/Não sei como reagir.md",
     "Notas/Help/Não sei porque recebi um documento.md",
@@ -172,9 +175,6 @@
     "Notas/Dúvida/Quem gerou as frases da tela de carregamento.md",
     "Notas/QRCode páginas.md",
     "Notas/Dúvida/Receita médica.md",
-    "Notas/Dúvida/Reembolso Créditos Como Funciona.md",
-    "Notas/Reconhecimento facial.md",
-    "Notas/Dúvida/Reenviar email limite.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",

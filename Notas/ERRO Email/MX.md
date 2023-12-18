@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T11:47
-Last Updated: 2023-11-16T11:47
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Nós não sabemos qual é o registro MX que o seu domínio deveria possuir
 
   
