@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Tem SLA.md",
+                "file": "Notas/Sistema de pagamento CNPJ diferente do Autentique.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Tem SLA.md",
+                "file": "Notas/Sistema de pagamento CNPJ diferente do Autentique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Tem SLA.md",
+                "file": "Notas/Sistema de pagamento CNPJ diferente do Autentique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Tem SLA.md"
+                "file": "Notas/Sistema de pagamento CNPJ diferente do Autentique.md"
               }
             }
           }
@@ -147,9 +147,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "20f65617d53d47fc",
   "lastOpenFiles": [
-    "Notas/SLA.md",
+    "Notas/Dúvida/SLA.md",
+    "Notas/Dúvida/Tem SLA.md",
     "Notas/Dúvida/SMS rejeitado muitas vezes.md",
     "Notas/Dúvida/Suporte ICP-Brasil.md",
     "Notas/Dúvida/Suspeita de Fraude.md",
@@ -172,13 +173,12 @@
     "Notas/API",
     "Notion/Sem título.md",
     "Notion/testete24.md",
-    "Notas/Sistema de pagamento CNPJ diferente.md",
+    "Notas/Sistema de pagamento CNPJ diferente do Autentique.md",
     "Notas/Selfie Erro.md",
     "Notas/Segurança ataque cibernético.md",
     "Notas/Saved Response.md",
     "Notas/SandBox separado.md",
     "Notas/SafeID.md",
-    "Notas/Dúvida/Tem SLA.md",
     "Notas/Rubrica API.md",
     "Notas",
     "Coisas/verificaczo_de_identidade....png",
