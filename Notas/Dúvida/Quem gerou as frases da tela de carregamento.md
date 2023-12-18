@@ -1,0 +1,1 @@
+As filosoficas muito provavelmente foram geradas por GPT4, as mais curtas normalmente foram feitas pela nossa equipe

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Reembolso Créditos Como Funciona.md",
+                "file": "Notas/QRCode certificado.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Reembolso Créditos Como Funciona.md",
+                "file": "Notas/QRCode certificado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Reembolso Créditos Como Funciona.md",
+                "file": "Notas/QRCode certificado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Reembolso Créditos Como Funciona.md"
+                "file": "Notas/QRCode certificado.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Dúvida/Quem gerou as frases da tela de carregamento.md",
+    "Notas/QRCode páginas.md",
+    "Notas/Dúvida/Receita médica.md",
+    "Notas/Dúvida/Reembolso Créditos Como Funciona.md",
+    "Notas/Reconhecimento facial.md",
     "Notas/Dúvida/Reenviar email limite.md",
     "Notas/Dúvida/Referências para validação AD-RV AD-RC.md",
     "Notas/Dúvida/Representante duas empresas (assinar 2x).md",
@@ -174,14 +179,9 @@
     "Sem título 1.canvas",
     "Notas/APP autentique (atalho).md",
     "Notas/Saved Response.md",
-    "Notas/Selfie Erro.md",
-    "Notas/Dúvida/Tipos de documentos aceitos.md",
     "Notas/Help",
-    "Notas/Validar PDF assinado pelo Autentique.md",
-    "Notas/Plataforma/Ver documentos de outros usuários.md",
     "Notas/Dúvida",
     "Notas/Plataforma",
-    "Notas/ERRO Email/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
     "Notas/ERRO Email",
     "Notas/API",
     "Notas",
