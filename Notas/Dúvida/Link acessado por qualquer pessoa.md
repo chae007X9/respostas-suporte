@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T15:15
-Last Updated: 2023-04-18T11:07
-Created By: Cristian Scopel
-Last Edited By: CChaline Reis
----
 Isso mesmo, o link dos documentos pode ser acessado por qualquer pessoa sem autenticação. Não é possível alterar esse comportamento
 
   

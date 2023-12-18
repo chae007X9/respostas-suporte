@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/LocalWeb.md",
+                "file": "Notas/Lembretes - Explicação.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/LocalWeb.md",
+                "file": "Notas/Lembretes - Explicação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/LocalWeb.md",
+                "file": "Notas/Lembretes - Explicação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/LocalWeb.md"
+                "file": "Notas/Lembretes - Explicação.md"
               }
             }
           }
@@ -149,7 +149,10 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Dúvida/Link acessado por qualquer pessoa.md",
     "Notas/Plataforma/Mesclar contas.md",
+    "Notas/Local de Armazenamento Autentique.md",
+    "Notas/LocalWeb.md",
     "Notas/Login WhatsApp-Número de celular.md",
     "Notas/Dúvida/Receita médica animal.md",
     "Notas/Dúvida/Receita médica humano.md",
@@ -172,9 +175,6 @@
     "Notas/Plano Governo.md",
     "Notas/Dúvida/Prazo de validade assinatura eletrônica avançada.md",
     "Notas/Dúvida/Prazo validade assinatura eletrônica avançada.md",
-    "Notas/Dúvida/Problema plano (comprou e não atualizou).md",
-    "Notas/Pré-Cadastro.md",
-    "Notas/Dúvida/Jurídico/Processo empresa VS funcionário.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",

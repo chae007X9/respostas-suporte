@@ -1,9 +1,3 @@
----
-Date Created: 2023-09-28T10:05
-Last Updated: 2023-09-28T12:55
-Created By: Felipe Tomkiel Malacarne
-Last Edited By: Felipe Tomkiel Malacarne
----
 Quanto ao lembrete de assinaturas :
 
 - Serão enviados lembretes diários ou semanais para o signatário lembrando-o de assinar o documento até ele ser assinado ou terem sido enviados 7 lembretes.
