@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Segurança ataque cibernético.md",
+                "file": "Notas/SandBox separado.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Segurança ataque cibernético.md",
+                "file": "Notas/SandBox separado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Segurança ataque cibernético.md",
+                "file": "Notas/SandBox separado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Segurança ataque cibernético.md"
+                "file": "Notas/SandBox separado.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "20f65617d53d47fc",
   "lastOpenFiles": [
+    "Notas/Help/Segurança ataque cibernético.md",
+    "Notas/Saved Response.md",
     "Notas/Dúvida/Sistema de pagamento CNPJ diferente do Autentique.md",
     "Notas/Selfie Erro.md",
     "Notas/Dúvida/SLA.md",
@@ -175,8 +177,6 @@
     "Notas/API",
     "Notion/Sem título.md",
     "Notion/testete24.md",
-    "Notas/Segurança ataque cibernético.md",
-    "Notas/Saved Response.md",
     "Notas/SandBox separado.md",
     "Notas/SafeID.md",
     "Notas/Rubrica API.md",
