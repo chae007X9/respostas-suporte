@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Representante duas empresas (assinar 2x).md",
+                "file": "Notas/Help/User problema.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Representante duas empresas (assinar 2x).md",
+                "file": "Notas/Help/User problema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Representante duas empresas (assinar 2x).md",
+                "file": "Notas/Help/User problema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Representante duas empresas (assinar 2x).md"
+                "file": "Notas/Help/User problema.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Representante duas empresas (assinar 2x).md",
     "Notas/Dúvida/Jurídico/Responsabilidade Autentique.md",
     "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
     "Notas/Dúvida/Jurídico",
