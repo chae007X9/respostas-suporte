@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Pré-Cadastro.md",
+                "file": "Notas/Dúvida/Problema plano (comprou e não atualizou).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Pré-Cadastro.md",
+                "file": "Notas/Dúvida/Problema plano (comprou e não atualizou).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Pré-Cadastro.md",
+                "file": "Notas/Dúvida/Problema plano (comprou e não atualizou).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Pré-Cadastro.md"
+                "file": "Notas/Dúvida/Problema plano (comprou e não atualizou).md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Pré-Cadastro.md",
     "Notas/Dúvida/Problema plano (comprou e não atualizou).md",
     "Notas/Dúvida/Jurídico/Processo empresa VS funcionário.md",
     "Notas/Dúvida/QRCode não aparece na assinatura com certificado.md",
@@ -176,7 +177,6 @@
     "Notas/Help/Segurança ataque cibernético.md",
     "Notas/Jurídico",
     "Notas/API/Rubrica API.md",
-    "Notas/API/SandBox separado.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Notas/Help",
