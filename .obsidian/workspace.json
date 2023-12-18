@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Prazo de validade assinatura eletrônica avançada.md",
+                "file": "Notas/Perfil por que muda os dados da conta.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Prazo de validade assinatura eletrônica avançada.md",
+                "file": "Notas/Perfil por que muda os dados da conta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Prazo de validade assinatura eletrônica avançada.md",
+                "file": "Notas/Perfil por que muda os dados da conta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Prazo de validade assinatura eletrônica avançada.md"
+                "file": "Notas/Perfil por que muda os dados da conta.md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "9e26e468edf133be",
   "lastOpenFiles": [
-    "Notas/Dúvida/Prazo validade assinatura eletrônica avançada.md",
+    "Notas/Dúvida/Plano várias empresas.md",
+    "Notas/Plano Governo.md",
     "Notas/Dúvida/Prazo de validade assinatura eletrônica avançada.md",
-    "Notas/Plano várias empresas.md",
+    "Notas/Dúvida/Prazo validade assinatura eletrônica avançada.md",
     "Notas/Dúvida/Problema plano (comprou e não atualizou).md",
     "Notas/Pré-Cadastro.md",
     "Notas/Dúvida/Jurídico/Processo empresa VS funcionário.md",
@@ -175,7 +176,6 @@
     "Notas/Dúvida/Suspeita de Fraude.md",
     "Notas/Dúvida/Suporte ICP-Brasil.md",
     "Notas/Dúvida/SMS rejeitado muitas vezes.md",
-    "Notas/Dúvida/Sistema de pagamento CNPJ diferente do Autentique.md",
     "Notas/Jurídico",
     "Sem título.canvas",
     "Sem título 1.canvas",

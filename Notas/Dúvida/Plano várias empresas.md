@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T15:57
-Last Updated: 2023-06-28T14:08
-Created By: Cristian Scopel
-Last Edited By: CChaline Reis
----
 Ao contratar um plano para uma organização dentro do Autentique, todas as contas de usuários que fizerem parte dela compartilharão o plano, independentemente do CNPJ. Porém, esteja ciente de que os documentos criados dentro dessa organização ficarão visíveis entre as empresas.
 
   
