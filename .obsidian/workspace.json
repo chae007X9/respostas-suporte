@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Receita Médica Animal.md",
+                "file": "Notas/Dúvida/Receita médica animal.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 445.5
   },
   "right": {
     "id": "f255323641738986",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Receita Médica Animal.md",
+                "file": "Notas/Dúvida/Receita médica animal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Receita Médica Animal.md",
+                "file": "Notas/Dúvida/Receita médica animal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Receita Médica Animal.md"
+                "file": "Notas/Dúvida/Receita médica animal.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9e26e468edf133be",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
-    "Notas/Dúvida/Receita médica Humano.md",
-    "Notas/Dúvida/Receita Médica Animal.md",
+    "Notas/Dúvida/Receita médica humano.md",
+    "Notas/Dúvida/Receita médica animal.md",
     "Notas/Dúvida/Plano várias empresas.md",
     "Notas/Plataforma/Mudar ordem de assinatura.md",
     "Notas/ERRO Email/MX.md",
