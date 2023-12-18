@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Lembretes - Explicação.md",
+                "file": "Notas/Integração com XXXXXX.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Lembretes - Explicação.md",
+                "file": "Notas/Integração com XXXXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Lembretes - Explicação.md",
+                "file": "Notas/Integração com XXXXXX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Lembretes - Explicação.md"
+                "file": "Notas/Integração com XXXXXX.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
     "Notas/Dúvida/Link acessado por qualquer pessoa.md",
+    "Notas/Lembretes - Explicação.md",
     "Notas/Plataforma/Mesclar contas.md",
     "Notas/Local de Armazenamento Autentique.md",
     "Notas/LocalWeb.md",
@@ -174,7 +175,6 @@
     "Notas/Dúvida/Perfil por que muda os dados da conta.md",
     "Notas/Plano Governo.md",
     "Notas/Dúvida/Prazo de validade assinatura eletrônica avançada.md",
-    "Notas/Dúvida/Prazo validade assinatura eletrônica avançada.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
