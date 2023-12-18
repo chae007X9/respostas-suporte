@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Foto explicação.md",
+                "file": "Notas/Dúvida/Jurídico/Falsificação assinatura.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Foto explicação.md",
+                "file": "Notas/Dúvida/Jurídico/Falsificação assinatura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Foto explicação.md",
+                "file": "Notas/Dúvida/Jurídico/Falsificação assinatura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Foto explicação.md"
+                "file": "Notas/Dúvida/Jurídico/Falsificação assinatura.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9e26e468edf133be",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
-    "Notas/Foto é necessário.md",
+    "Notas/Dúvida/Fornecedor.md",
     "Notas/Dúvida/Foto explicação.md",
+    "Notas/Foto é necessário.md",
     "Notas/Dúvida/Homologação governo.md",
     "Notas/Getting Started.md",
     "Notas/Dúvida/Horelites.md",
@@ -174,7 +175,6 @@
     "Notas/Help/Não sabe quem é o criador do documento.md",
     "Notas/Help/Não sei como reagir.md",
     "Notas/Help/Não sei porque recebi um documento.md",
-    "Notas/Dúvida/Formulário signatário preencher os dados.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
