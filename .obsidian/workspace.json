@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/SafeID.md",
+                "file": "Notas/Responsabilidade Autentique.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/SafeID.md",
+                "file": "Notas/Responsabilidade Autentique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/SafeID.md",
+                "file": "Notas/Responsabilidade Autentique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/SafeID.md"
+                "file": "Notas/Responsabilidade Autentique.md"
               }
             }
           }
@@ -147,8 +147,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/API/Rubrica API.md",
+    "Notas/Dúvida/SafeID.md",
     "Notas/API/SandBox separado.md",
     "2023-12-18.md",
     "Sem título.canvas",
@@ -180,7 +182,6 @@
     "Notas/API/Webhook - Bearer token.md",
     "Notas/API/Wordpress API Plugin.md",
     "Notas/API",
-    "Notion/Sem título.md",
     "Notas",
     "Coisas/verificaczo_de_identidade....png",
     "Coisas/verificacao_de_identidade_....png",

@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T11:15
-Last Updated: 2023-11-16T11:16
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 …_vazamento de dados…_
 
   
