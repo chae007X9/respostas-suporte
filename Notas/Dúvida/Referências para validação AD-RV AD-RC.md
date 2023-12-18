@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T11:45
-Last Updated: 2023-11-16T11:46
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 No momento nós não incluimos carimbos de tempo ICP-Brasil nas assinaturas eletrônicas qualificadas. Está nos nossos planos, mas acabou não sendo algo prioritário num primeiro momento
 
   

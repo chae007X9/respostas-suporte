@@ -1,9 +1,3 @@
----
-Date Created: 2023-08-15T16:42
-Last Updated: 2023-08-15T16:44
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 **_para consultar apenas_**
 
   

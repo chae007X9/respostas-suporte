@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Help/User problema.md",
+                "file": "Notas/Reembolso Créditos Como Funciona.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Help/User problema.md",
+                "file": "Notas/Reembolso Créditos Como Funciona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Help/User problema.md",
+                "file": "Notas/Reembolso Créditos Como Funciona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Help/User problema.md"
+                "file": "Notas/Reembolso Créditos Como Funciona.md"
               }
             }
           }
@@ -149,7 +149,10 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
-    "Notas/Representante duas empresas (assinar 2x).md",
+    "Notas/Dúvida/Reenviar email limite.md",
+    "Notas/Dúvida/Referências para validação AD-RV AD-RC.md",
+    "Notas/Dúvida/Representante duas empresas (assinar 2x).md",
+    "Notas/Help/User problema.md",
     "Notas/Dúvida/Jurídico/Responsabilidade Autentique.md",
     "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
     "Notas/Dúvida/Jurídico",
@@ -162,7 +165,6 @@
     "Notas/Dúvida/SMS rejeitado muitas vezes.md",
     "Notas/Dúvida/Sistema de pagamento CNPJ diferente do Autentique.md",
     "Notas/Dúvida/SafeID.md",
-    "Notas/Help/User problema.md",
     "Notas/Help/Segurança ataque cibernético.md",
     "Notas/Jurídico",
     "Notas/API/Rubrica API.md",
@@ -181,8 +183,6 @@
     "Notas/Plataforma",
     "Notas/ERRO Email/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
     "Notas/ERRO Email",
-    "Notas/Untitled.md",
-    "Notas/API/Webhook - Bearer token.md",
     "Notas/API",
     "Notas",
     "Coisas/verificaczo_de_identidade....png",

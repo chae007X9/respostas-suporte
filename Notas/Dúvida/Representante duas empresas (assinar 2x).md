@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T11:24
-Last Updated: 2023-11-16T11:25
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 …_ASSINAR DUAS VEZES???…_
 
   
