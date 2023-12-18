@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca7da7052e542f39",
+        "id": "c4c2319d7df4361d",
         "type": "tabs",
         "children": [
           {
-            "id": "20f65617d53d47fc",
+            "id": "9e26e468edf133be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notas/APP autentique (atalho).md",
-                "mode": "preview",
-                "source": false
+                "file": "Sem título 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "app",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/APP autentique (atalho).md",
+                "file": "Sem título 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/APP autentique (atalho).md",
+                "file": "Sem título 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/APP autentique (atalho).md"
+                "file": "Sem título 1.canvas"
               }
             }
           }
@@ -148,8 +150,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20f65617d53d47fc",
+  "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "2023-12-18.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Notas/APP autentique (atalho).md",
     "Notas/SandBox separado.md",
     "Notas/Help/Segurança ataque cibernético.md",
     "Notas/Saved Response.md",
@@ -178,9 +184,6 @@
     "Notas/API/Wordpress API Plugin.md",
     "Notas/API",
     "Notion/Sem título.md",
-    "Notion/testete24.md",
-    "Notas/SafeID.md",
-    "Notas/Rubrica API.md",
     "Notas",
     "Coisas/verificaczo_de_identidade....png",
     "Coisas/verificacao_de_identidade_....png",
