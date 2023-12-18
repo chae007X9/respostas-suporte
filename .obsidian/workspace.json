@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Mudar ordem de assinatura.md",
+                "file": "Notas/Dúvida/Modalidade de Assinatura - Receita Médica.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 464.5
   },
   "right": {
     "id": "f255323641738986",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Mudar ordem de assinatura.md",
+                "file": "Notas/Dúvida/Modalidade de Assinatura - Receita Médica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Mudar ordem de assinatura.md",
+                "file": "Notas/Dúvida/Modalidade de Assinatura - Receita Médica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Mudar ordem de assinatura.md"
+                "file": "Notas/Dúvida/Modalidade de Assinatura - Receita Médica.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Dúvida/Receita médica.md",
+    "Notas/Dúvida/Plano várias empresas.md",
+    "Notas/Dúvida/Modalidade de Assinatura - Receita Médica.md",
+    "Notas/Plataforma/Mudar ordem de assinatura.md",
     "Notas/ERRO Email/MX.md",
     "Notas/Plataforma/Não entra ou desconecta.md",
     "Notas/ERRO Email/Não recebe email.md",
@@ -163,7 +167,6 @@
     "Notas/Dúvida/Jurídico/Orgão pode decidir qual modalide assinatura.md",
     "Notas/Dúvida/Mesma conta - perfil (alterar os dados).md",
     "Notas/Dúvida/Perfil por que muda os dados da conta.md",
-    "Notas/Dúvida/Plano várias empresas.md",
     "Notas/Plano Governo.md",
     "Notas/Dúvida/Prazo de validade assinatura eletrônica avançada.md",
     "Notas/Dúvida/Prazo validade assinatura eletrônica avançada.md",
@@ -172,9 +175,6 @@
     "Notas/Dúvida/Jurídico/Processo empresa VS funcionário.md",
     "Notas/Dúvida/QRCode não aparece na assinatura com certificado.md",
     "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
-    "Notas/Dúvida/Quem gerou as frases da tela de carregamento.md",
-    "Notas/QRCode páginas.md",
-    "Notas/Dúvida/Receita médica.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
