@@ -1,3 +1,9 @@
+---
+Date Created: 2023-04-17T14:23
+Last Updated: 2023-04-17T14:23
+Created By: Cristian Scopel
+Last Edited By: Cristian Scopel
+---
 Não é possível trocar o documento, apenas realizar um novo envio
 
 Você pode remover os signatários que não assinaram, fazer um distrato para os signatários que assinaram: a forma juridicamente correta de anular um contrato é através de um distrato. Nos moldes do Art. 472 e 473 do Código Civil.

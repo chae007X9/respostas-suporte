@@ -11,8 +11,12 @@
             "id": "87a49fd68b7b2db5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Excluir documento.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Excluir documento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Excluir documento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Excluir documento.md"
+              }
             }
           }
         ]
@@ -139,8 +147,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/Erro WhatsApp 131026- Receiver is incapable of receiving this message.md",
+    "Notas/Excluir documento.md",
+    "Notas/Plataforma/Trocar  documento.md",
     "Notas/Dúvida/Jurídico/Falsificação assinatura.md",
     "Notas/Extorno.md",
     "Notas/Dúvida/Fornecedor.md",
@@ -164,9 +175,6 @@
     "Notas/Dúvida/Plano várias empresas.md",
     "Notas/Plataforma/Mudar ordem de assinatura.md",
     "Notas/ERRO Email/MX.md",
-    "Notas/Plataforma/Não entra ou desconecta.md",
-    "Notas/ERRO Email/Não recebe email.md",
-    "Notas/Help/Não sabe quem é o criador do documento.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
