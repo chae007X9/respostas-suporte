@@ -11,14 +11,11 @@
             "id": "9e26e468edf133be",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sem título 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Notas/SandBox separado.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título 1.canvas",
+                "file": "Notas/SandBox separado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título 1.canvas",
+                "file": "Notas/SandBox separado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título 1.canvas"
+                "file": "Notas/SandBox separado.md"
               }
             }
           }
@@ -153,8 +150,8 @@
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
     "2023-12-18.md",
-    "Sem título 1.canvas",
     "Sem título.canvas",
+    "Sem título 1.canvas",
     "Notas/APP autentique (atalho).md",
     "Notas/SandBox separado.md",
     "Notas/Help/Segurança ataque cibernético.md",
