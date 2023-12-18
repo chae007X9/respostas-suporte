@@ -1,1 +1,0 @@
-Depende do contrato, o prazo de validade do mesmo costuma constar expresso no texto do documento.
