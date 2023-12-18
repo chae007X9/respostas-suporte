@@ -1,0 +1,1 @@
+Basta abrir o arquivo PAdES em um leitor de PDFs compatível com PAdES. Em cada assinatura constará a AC que emitiu o certificado e o tipo de emissão

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Sem título.md",
+                "file": "Notas/Ver quem emitiu o certificado digital.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Sem título.md",
+                "file": "Notas/Ver quem emitiu o certificado digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Sem título.md",
+                "file": "Notas/Ver quem emitiu o certificado digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Sem título.md"
+                "file": "Notas/Ver quem emitiu o certificado digital.md"
               }
             }
           }
@@ -150,7 +150,8 @@
   "active": "9e26e468edf133be",
   "lastOpenFiles": [
     "Notas/ICP - Brasil.md",
-    "Notas/Sem título.md",
+    "Notas/Ver quem emitiu o certificado digital.md",
+    "Notas/Comprar certificado.md",
     "Notas/Dúvida/Link acessado por qualquer pessoa.md",
     "Notas/Integração com XXXXXX.md",
     "Notas/Lembretes - Explicação.md",
@@ -174,7 +175,6 @@
     "Notas/Notas.md",
     "Notas/Assinatura diferença avançada-qualificada.md",
     "Notas/Dúvida/Jurídico/Orgão pode decidir qual modalide assinatura.md",
-    "Notas/Dúvida/Mesma conta - perfil (alterar os dados).md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
