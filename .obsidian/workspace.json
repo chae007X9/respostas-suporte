@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c4c2319d7df4361d",
+        "id": "af5c081707f797a1",
         "type": "tabs",
         "children": [
           {
-            "id": "9e26e468edf133be",
+            "id": "87a49fd68b7b2db5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -139,7 +139,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9e26e468edf133be",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
     "Notas/Dúvida/Jurídico/Falsificação assinatura.md",
     "Notas/Extorno.md",
