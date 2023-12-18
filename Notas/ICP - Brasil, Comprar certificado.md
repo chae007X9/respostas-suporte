@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T15:01
-Last Updated: 2023-04-18T11:06
-Created By: Cristian Scopel
-Last Edited By: CChaline Reis
----
 Na assinatura eletrônica avançada, o documento não é assinado com certificados da cadeia ICP-Brasil de cada signatário.
 
 Caso você queira assinar dessa forma, é preciso usar assinatura eletrônica qualificada.
