@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Jurídico/Orgão pode decidir qual modalide assinatura.md",
+                "file": "Notas/Assinatura diferença avançada-qualificada.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imprimir",
+                "query": "assinatura difere",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Jurídico/Orgão pode decidir qual modalide assinatura.md",
+                "file": "Notas/Assinatura diferença avançada-qualificada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Jurídico/Orgão pode decidir qual modalide assinatura.md",
+                "file": "Notas/Assinatura diferença avançada-qualificada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Jurídico/Orgão pode decidir qual modalide assinatura.md"
+                "file": "Notas/Assinatura diferença avançada-qualificada.md"
               }
             }
           }
@@ -148,8 +148,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3aea8f3bea8200a9",
+  "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Dúvida/Jurídico/Orgão pode decidir qual modalide assinatura.md",
     "Notas/Dúvida/Mesma conta - perfil (alterar os dados).md",
     "Notas/Dúvida/Perfil por que muda os dados da conta.md",
     "Notas/Dúvida/Plano várias empresas.md",
@@ -176,7 +177,6 @@
     "Notas/Dúvida/Vencimento Boleto.md",
     "Notas/Dúvida/Tem SLA.md",
     "Notas/Dúvida/Tela preta IDANALYZER foto.md",
-    "Notas/Dúvida/Suspeita de Fraude.md",
     "Notas/Jurídico",
     "Sem título.canvas",
     "Sem título 1.canvas",
