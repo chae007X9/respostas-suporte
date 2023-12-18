@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "a diferenca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "3aea8f3bea8200a9",
   "lastOpenFiles": [
     "Notas/Dúvida/Mesma conta - perfil (alterar os dados).md",
     "Notas/Dúvida/Perfil por que muda os dados da conta.md",
