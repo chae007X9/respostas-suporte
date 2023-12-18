@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
+                "file": "Notas/Representante duas empresas (assinar 2x).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
+                "file": "Notas/Representante duas empresas (assinar 2x).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
+                "file": "Notas/Representante duas empresas (assinar 2x).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Jurídico/Ver endereço do signatário.md"
+                "file": "Notas/Representante duas empresas (assinar 2x).md"
               }
             }
           }
@@ -147,8 +147,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "9e26e468edf133be",
   "lastOpenFiles": [
+    "Notas/Dúvida/Jurídico/Responsabilidade Autentique.md",
+    "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Dúvida/Venda de Certificados.md",
     "Notas/Dúvida/Vencimento Boleto.md",
@@ -161,7 +163,6 @@
     "Notas/Dúvida/SafeID.md",
     "Notas/Help/User problema.md",
     "Notas/Help/Segurança ataque cibernético.md",
-    "Notas/Responsabilidade Autentique.md",
     "Notas/Jurídico",
     "Notas/API/Rubrica API.md",
     "Notas/API/SandBox separado.md",
@@ -175,7 +176,6 @@
     "Notas/Help",
     "Notas/Validar PDF assinado pelo Autentique.md",
     "Notas/Plataforma/Ver documentos de outros usuários.md",
-    "Notas/Dúvida/Jurídico/Ver endereço do signatário.md",
     "Notas/Dúvida",
     "Notas/Plataforma",
     "Notas/ERRO Email/unable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized addressunable to get mx info- failed to get IPs from PTR record- lookup nil- unrecognized address.md",
