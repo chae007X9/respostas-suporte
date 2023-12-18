@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notas/SafeID.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3aea8f3bea8200a9",
+  "active": "9e26e468edf133be",
   "lastOpenFiles": [
     "Notas/API/SandBox separado.md",
     "2023-12-18.md",
