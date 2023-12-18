@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Nome do signatário não muda.md",
-                "mode": "preview",
+                "file": "Notas/Formulário signatário preencher os dados.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Nome do signatário não muda.md",
+                "file": "Notas/Formulário signatário preencher os dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Nome do signatário não muda.md",
+                "file": "Notas/Formulário signatário preencher os dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Nome do signatário não muda.md"
+                "file": "Notas/Formulário signatário preencher os dados.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9e26e468edf133be",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
+    "Notas/Plataforma/Nome do signatário não muda.md",
     "Notas/Dúvida/Onde ficam armazenados os documentos no Autentique.md",
     "Notas/Notas.md",
     "Notas/Assinatura diferença avançada-qualificada.md",
@@ -175,7 +176,6 @@
     "Notas/Help/User problema.md",
     "Notas/Dúvida/Jurídico/Responsabilidade Autentique.md",
     "Notas/Dúvida/Jurídico",
-    "Notas/Dúvida/Venda de Certificados.md",
     "Notas/Jurídico",
     "Sem título.canvas",
     "Sem título 1.canvas",

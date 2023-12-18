@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T11:16
-Last Updated: 2023-11-16T11:16
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Foi selecionado ali:
 
 ![[Untitled 4.png]]
