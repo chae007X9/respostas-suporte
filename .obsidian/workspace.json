@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Comprar certificado.md",
+                "file": "Notas/Dúvida/Venda de Certificados.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Comprar certificado.md",
+                "file": "Notas/Dúvida/Venda de Certificados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Comprar certificado.md",
+                "file": "Notas/Dúvida/Venda de Certificados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Comprar certificado.md"
+                "file": "Notas/Dúvida/Venda de Certificados.md"
               }
             }
           }
@@ -150,6 +149,7 @@
   },
   "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/Comprar certificado.md",
     "Notas/Dúvida/Venda de Certificados.md",
     "Notas/Dúvida/Vencimento Boleto.md",
     "Notas/ERRO Email/Erro SPAM REPORTS.md",
@@ -168,7 +168,6 @@
     "Notas/Dúvida/Horelites.md",
     "Notas/Dúvida/ICP - Brasil.md",
     "Notas/Dúvida/Ver quem emitiu o certificado digital.md",
-    "Notas/Comprar certificado.md",
     "Notas/Dúvida/Link acessado por qualquer pessoa.md",
     "Notas/Integração com XXXXXX.md",
     "Notas/Lembretes - Explicação.md",
