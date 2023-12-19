@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Venda de Certificados.md",
+                "file": "Notas/Comprar certificado.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "para adquiri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Venda de Certificados.md",
+                "file": "Notas/Comprar certificado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Venda de Certificados.md",
+                "file": "Notas/Comprar certificado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Venda de Certificados.md"
+                "file": "Notas/Comprar certificado.md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
-    "Notas/Dúvida/Vencimento Boleto.md",
     "Notas/Dúvida/Venda de Certificados.md",
+    "Notas/Dúvida/Vencimento Boleto.md",
     "Notas/ERRO Email/Erro SPAM REPORTS.md",
     "Notas/ERRO Email/Erro THE EMAIL MESSAGE WAS DETECTED AS SPAM.md",
     "Notas/ERRO WhastApp/Erro WhatsApp 131026- Receiver is incapable of receiving this message.md",
