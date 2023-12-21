@@ -1,9 +1,3 @@
----
-Date Created: 2023-05-19T14:54
-Last Updated: 2023-06-20T14:19
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 **LR 59 é: 59 - Transação não autorizada. Suspeita de fraude.**
 
   

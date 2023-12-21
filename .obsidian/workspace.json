@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Erro SPAM MESSAGE REJECTED.md",
+                "file": "Notas/Erro inesperado.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Erro SPAM MESSAGE REJECTED.md",
+                "file": "Notas/Erro inesperado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Erro SPAM MESSAGE REJECTED.md",
+                "file": "Notas/Erro inesperado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Erro SPAM MESSAGE REJECTED.md"
+                "file": "Notas/Erro inesperado.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/ERRO Email/Erro LR 59 fatura entrar.md",
+    "Notas/ERRO Email/Erro Outlook.md",
+    "Notas/ERRO Email/Erro SPAM MESSAGE REJECTED.md",
     "Notas/Dúvida/Venda de Certificados.md",
     "Notas/Comprar certificado.md",
     "Notas/Dúvida/Vencimento Boleto.md",
@@ -173,9 +176,6 @@
     "Notas/Lembretes - Explicação.md",
     "Notas/Plataforma/Mesclar contas.md",
     "Notas/Local de Armazenamento Autentique.md",
-    "Notas/LocalWeb.md",
-    "Notas/Login WhatsApp-Número de celular.md",
-    "Notas/Dúvida/Receita médica animal.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",

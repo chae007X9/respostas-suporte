@@ -1,9 +1,3 @@
----
-Date Created: 2023-05-19T14:51
-Last Updated: 2023-07-13T16:51
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 **This email was not sent because the recipient previously marked your messages as**
 
 **spam.**
