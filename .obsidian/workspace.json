@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Venda de Certificados.md",
+                "file": "Notas/Erro SPAM MESSAGE REJECTED.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Venda de Certificados.md",
+                "file": "Notas/Erro SPAM MESSAGE REJECTED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Venda de Certificados.md",
+                "file": "Notas/Erro SPAM MESSAGE REJECTED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Venda de Certificados.md"
+                "file": "Notas/Erro SPAM MESSAGE REJECTED.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
-    "Notas/Comprar certificado.md",
     "Notas/Dúvida/Venda de Certificados.md",
+    "Notas/Comprar certificado.md",
     "Notas/Dúvida/Vencimento Boleto.md",
     "Notas/ERRO Email/Erro SPAM REPORTS.md",
     "Notas/ERRO Email/Erro THE EMAIL MESSAGE WAS DETECTED AS SPAM.md",

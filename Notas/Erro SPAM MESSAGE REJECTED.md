@@ -1,9 +1,3 @@
----
-Date Created: 2023-05-19T14:48
-Last Updated: 2023-07-06T17:13
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Referente ao email XXXXXXXXXXXXXXXX recebemos o log:
 
   
