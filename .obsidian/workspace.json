@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Erro 550 5.4.1 Recipient address rejected- Access denied.md",
+                "file": "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Erro 550 5.4.1 Recipient address rejected- Access denied.md",
+                "file": "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Erro 550 5.4.1 Recipient address rejected- Access denied.md",
+                "file": "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Erro 550 5.4.1 Recipient address rejected- Access denied.md"
+                "file": "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md"
               }
             }
           }
@@ -147,8 +147,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87a49fd68b7b2db5",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
+    "Notas/ERRO Email/Erro 550 5.1.1 XXXXXXXX@XXXX- Recipient address rejected- User unknown in virtual mailbox table.md",
+    "Notas/ERRO Email/Erro 550 5.4.1 Recipient address rejected- Access denied.md",
     "Notas/ERRO Email/Erro 550 5.5.0 Requested action not taken- mailbox unavailable.md",
     "Notas/ERRO Email/Erro 550 5.7.0 Server IP 149.72.131.217 listed as abusive.md",
     "Notas/ERRO Email/Erro 550 Please turn on SMTP Authentication in your mail client, or login to the IMAP-POP3 server before sending your message.md",
@@ -174,8 +176,6 @@
     "Notas/Foto é necessário.md",
     "Notas/Dúvida/Homologação governo.md",
     "Notas/Getting Started.md",
-    "Notas/Dúvida/Horelites.md",
-    "Notas/Dúvida/ICP - Brasil.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
