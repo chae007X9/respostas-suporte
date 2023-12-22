@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
+                "file": "Notas/Help/User problema.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
+                "file": "Notas/Help/User problema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
+                "file": "Notas/Help/User problema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md"
+                "file": "Notas/Help/User problema.md"
               }
             }
           }
@@ -147,8 +147,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/Help/Não sei como reagir.md",
+    "Notas/Help/Não sabe quem é o criador do documento.md",
+    "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
     "Notas/ERRO Email/Erro 550 5.1.1 XXXXXXXX@XXXX- Recipient address rejected- User unknown in virtual mailbox table.md",
     "Notas/ERRO Email/Erro 550 5.4.1 Recipient address rejected- Access denied.md",
     "Notas/ERRO Email/Erro 550 5.5.0 Requested action not taken- mailbox unavailable.md",
@@ -173,9 +176,6 @@
     "Notas/Extorno.md",
     "Notas/Dúvida/Fornecedor.md",
     "Notas/Dúvida/Foto explicação.md",
-    "Notas/Foto é necessário.md",
-    "Notas/Dúvida/Homologação governo.md",
-    "Notas/Getting Started.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
