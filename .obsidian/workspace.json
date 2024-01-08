@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
+                "file": "Notas/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
+                "file": "Notas/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
+                "file": "Notas/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Erro 550 5.1.1 The email account that you tried to reach does not exist.md"
+                "file": "Notas/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/ERRO Email/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
     "Notas/Help/User problema.md",
     "Notas/Help/Não sei como reagir.md",
     "Notas/Help/Não sabe quem é o criador do documento.md",
@@ -175,7 +176,6 @@
     "Notas/Plataforma/Trocar  documento.md",
     "Notas/Dúvida/Jurídico/Falsificação assinatura.md",
     "Notas/Extorno.md",
-    "Notas/Dúvida/Fornecedor.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
