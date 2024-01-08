@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Help/User problema.md",
+                "file": "Notas/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3c94778a9c72e8da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Help/User problema.md",
+                "file": "Notas/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Help/User problema.md",
+                "file": "Notas/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Help/User problema.md"
+                "file": "Notas/Erro 550 5.1.1 The email account that you tried to reach does not exist.md"
               }
             }
           }
@@ -158,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3c94778a9c72e8da",
+  "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/Help/User problema.md",
     "Notas/Help/Não sei como reagir.md",
     "Notas/Help/Não sabe quem é o criador do documento.md",
     "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
@@ -186,7 +176,6 @@
     "Notas/Dúvida/Jurídico/Falsificação assinatura.md",
     "Notas/Extorno.md",
     "Notas/Dúvida/Fornecedor.md",
-    "Notas/Dúvida/Foto explicação.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
