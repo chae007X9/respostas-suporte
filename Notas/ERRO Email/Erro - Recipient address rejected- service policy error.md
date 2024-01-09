@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T15:56
-Last Updated: 2023-04-17T15:57
-Created By: Cristian Scopel
-Last Edited By: Cristian Scopel
----
 Desculpe, esse erro veio do recipiente, ele não é do nosso lado. Nós não sabemos a causa exata dele.
 
 E apenas um log de erro
