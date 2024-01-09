@@ -1,9 +1,3 @@
----
-Date Created: 2023-05-19T14:50
-Last Updated: 2023-08-23T15:20
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Esse código de erro 59 é um bloqueio pela operadora do cartão:
 
   

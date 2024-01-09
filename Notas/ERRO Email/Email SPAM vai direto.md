@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T10:46
-Last Updated: 2023-11-16T10:46
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 O que define quais emails são enviados para spam é o cliente de emails. Eles costumam ter uma opção para marcar "não é spam" nos emails
 
   
