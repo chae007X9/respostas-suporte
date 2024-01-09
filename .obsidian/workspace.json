@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dúvida/Documento sigilo ou privado.md",
+                "file": "Notas/Documento sem foco.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Dúvida/Documento sigilo ou privado.md",
+                "file": "Notas/Documento sem foco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Dúvida/Documento sigilo ou privado.md",
+                "file": "Notas/Documento sem foco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Dúvida/Documento sigilo ou privado.md"
+                "file": "Notas/Documento sem foco.md"
               }
             }
           }
@@ -148,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3aea8f3bea8200a9",
+  "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/Dúvida/Documento sigilo ou privado.md",
     "Notas/Dúvida/Documento tá valendo (validade).md",
     "Notas/Plataforma/Dois Templates.md",
     "Notas/Dúvida/Domínio congelado.md",
@@ -175,7 +175,6 @@
     "Notas/ERRO Email/Erro 554 5.7.1 Message scored extremely high on spam scale. No incident created.md",
     "Notas/ERRO Email/Erro 554 5.7.1 You can not send a message because your domain has been penalized for spam, or either does not have the MX and SPF records configured. For help, please quote incident ID 01akBVcIu.md",
     "Notas/Plataforma/Erro inesperado.md",
-    "Notas/ERRO Email/Erro LR 59 fatura entrar.md",
     "Notas/ERRO WhastApp",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
