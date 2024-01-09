@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Email aberto.md",
+                "file": "Notas/ERRO Email/Email aberto.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Email aberto.md",
+                "file": "Notas/ERRO Email/Email aberto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Email aberto.md",
+                "file": "Notas/ERRO Email/Email aberto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Email aberto.md"
+                "file": "Notas/ERRO Email/Email aberto.md"
               }
             }
           }
@@ -147,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87a49fd68b7b2db5",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
     "Notas/ERRO Email/Email SPAM vai direto.md",
     "Notas/Plataforma/Erro  CARTAO 59.md",
