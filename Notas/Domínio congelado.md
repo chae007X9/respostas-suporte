@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T16:03
-Last Updated: 2023-04-18T10:59
-Created By: Cristian Scopel
-Last Edited By: CChaline Reis
----
 O domínio foi congelado pelo registro.br:
 
   

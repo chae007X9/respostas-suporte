@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/ERRO Email/Email aberto.md",
+                "file": "Notas/Domínio congelado.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/ERRO Email/Email aberto.md",
+                "file": "Notas/Domínio congelado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/ERRO Email/Email aberto.md",
+                "file": "Notas/Domínio congelado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/ERRO Email/Email aberto.md"
+                "file": "Notas/Domínio congelado.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/ERRO Email/Email aberto.md",
     "Notas/ERRO Email/Email SPAM vai direto.md",
     "Notas/Plataforma/Erro  CARTAO 59.md",
     "Notas/Plataforma/Erro - 3 Tentativas.md",
@@ -174,7 +175,6 @@
     "Notas/ERRO Email/Erro Outlook.md",
     "Notas/ERRO Email/Erro SPAM MESSAGE REJECTED.md",
     "Notas/Dúvida/Venda de Certificados.md",
-    "Notas/Comprar certificado.md",
     "Notas/ERRO WhastApp",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
