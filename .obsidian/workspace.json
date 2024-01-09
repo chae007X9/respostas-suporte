@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Documento sem foco.md",
+                "file": "Dúvida/Documento sem foco.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Documento sem foco.md",
+                "file": "Dúvida/Documento sem foco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Documento sem foco.md",
+                "file": "Dúvida/Documento sem foco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Documento sem foco.md"
+                "file": "Dúvida/Documento sem foco.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87a49fd68b7b2db5",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
-    "Notas/Dúvida/Documento sigilo ou privado.md",
-    "Notas/Dúvida/Documento tá valendo (validade).md",
+    "Dúvida/Documento sigilo ou privado.md",
+    "Dúvida/Documento tá valendo (validade).md",
     "Notas/Plataforma/Dois Templates.md",
-    "Notas/Dúvida/Domínio congelado.md",
+    "Dúvida/Domínio congelado.md",
     "Notas/ERRO Email/Email aberto.md",
     "Notas/ERRO Email/Email SPAM vai direto.md",
     "Notas/Plataforma/Erro  CARTAO 59.md",
@@ -176,12 +176,12 @@
     "Notas/ERRO Email/Erro 554 5.7.1 You can not send a message because your domain has been penalized for spam, or either does not have the MX and SPF records configured. For help, please quote incident ID 01akBVcIu.md",
     "Notas/Plataforma/Erro inesperado.md",
     "Notas/ERRO WhastApp",
-    "Notas/Dúvida/Jurídico",
+    "Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Notas/Help",
-    "Notas/Dúvida",
+    "Dúvida",
     "Notas/Plataforma",
     "Notas/ERRO Email",
     "Notas/API",
