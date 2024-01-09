@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/ERRO Email/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md",
+                "file": "Notas/Erro - Recipient address rejected- service policy error.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/ERRO Email/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md",
+                "file": "Notas/Erro - Recipient address rejected- service policy error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/ERRO Email/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md",
+                "file": "Notas/Erro - Recipient address rejected- service policy error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/ERRO Email/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md"
+                "file": "Notas/Erro - Recipient address rejected- service policy error.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/ERRO Email/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md",
     "Notas/ERRO Email/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
     "Notas/Help/User problema.md",
     "Notas/Help/Não sei como reagir.md",
@@ -175,7 +176,6 @@
     "Notas/Dúvida/Trocar documento.md",
     "Notas/Plataforma/Trocar  documento.md",
     "Notas/Dúvida/Jurídico/Falsificação assinatura.md",
-    "Notas/Extorno.md",
     "Notas/Dúvida/Jurídico",
     "Notas/Jurídico",
     "Sem título.canvas",
