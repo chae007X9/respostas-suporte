@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T14:35
-Last Updated: 2023-04-18T11:32
-Created By: Cristian Scopel
-Last Edited By: CChaline Reis
----
 O documento não precisa está todo assinado para ter validade, pois a assinatura começa a gerar efeito assim que é feita por um dos signatários.
 
   
