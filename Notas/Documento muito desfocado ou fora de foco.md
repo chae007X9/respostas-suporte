@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T11:27
-Last Updated: 2023-11-16T11:28
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 **Documento muito desfocado ou fora de foco, tente novamente. (Name Error)**
 
   
