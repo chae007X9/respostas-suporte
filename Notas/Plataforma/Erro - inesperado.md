@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T15:00
-Last Updated: 2023-04-18T11:00
-Created By: Cristian Scopel
-Last Edited By: CChaline Reis
----
 *pedir pro dev conferir erro vindo do email do user*
 
   
