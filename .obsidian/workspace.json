@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "para adquiri",
+                "query": "signa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "3aea8f3bea8200a9",
   "lastOpenFiles": [
     "Notas/Dúvida/Documento tá valendo (validade).md",
     "Notas/Plataforma/Dois Templates.md",
