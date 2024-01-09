@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Erro - Dialing remote address.md",
+                "file": "Notas/ERRO Email/Erro - Dialing remote address.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Erro - Dialing remote address.md",
+                "file": "Notas/ERRO Email/Erro - Dialing remote address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Erro - Dialing remote address.md",
+                "file": "Notas/ERRO Email/Erro - Dialing remote address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Erro - Dialing remote address.md"
+                "file": "Notas/ERRO Email/Erro - Dialing remote address.md"
               }
             }
           }
@@ -147,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87a49fd68b7b2db5",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
     "Notas/Plataforma/Erro - inesperado.md",
     "Notas/Plataforma/Erro - Parte de baixo sumindo.md",
