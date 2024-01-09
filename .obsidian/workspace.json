@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Documento muito desfocado ou fora de foco.md",
+                "file": "Dúvida/DOCUMENTO FORMATO P7S.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Documento muito desfocado ou fora de foco.md",
+                "file": "Dúvida/DOCUMENTO FORMATO P7S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Documento muito desfocado ou fora de foco.md",
+                "file": "Dúvida/DOCUMENTO FORMATO P7S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Documento muito desfocado ou fora de foco.md"
+                "file": "Dúvida/DOCUMENTO FORMATO P7S.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87a49fd68b7b2db5",
+  "active": "0f39aa9a0ce1afae",
   "lastOpenFiles": [
+    "Dúvida/Documento muito desfocado ou fora de foco.md",
     "Dúvida/Documento sem foco.md",
     "Dúvida/Documento sigilo ou privado.md",
     "Dúvida/Documento tá valendo (validade).md",
@@ -174,7 +175,6 @@
     "Notas/ERRO Email/Erro 550 5.7.0 Server IP 149.72.131.217 listed as abusive.md",
     "Notas/ERRO Email/Erro 550 Please turn on SMTP Authentication in your mail client, or login to the IMAP-POP3 server before sending your message.md",
     "Notas/ERRO Email/Erro 554 5.7.1 Message scored extremely high on spam scale. No incident created.md",
-    "Notas/ERRO Email/Erro 554 5.7.1 You can not send a message because your domain has been penalized for spam, or either does not have the MX and SPF records configured. For help, please quote incident ID 01akBVcIu.md",
     "Notas/ERRO WhastApp",
     "Dúvida/Jurídico",
     "Notas/Jurídico",

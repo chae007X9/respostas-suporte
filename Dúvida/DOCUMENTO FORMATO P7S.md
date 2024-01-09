@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-09T11:02
-Last Updated: 2023-11-09T11:03
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Desculpe, nós não trabalhamos com formato CAdES para assinaturas, o Autentique utiliza exclusivamente o padrão PAdES
 
   
