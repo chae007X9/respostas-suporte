@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Documento carrega e não vai.md",
+                "file": "Notas/DNS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Documento carrega e não vai.md",
+                "file": "Notas/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Documento carrega e não vai.md",
+                "file": "Notas/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Documento carrega e não vai.md"
+                "file": "Notas/DNS.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Dúvida/Documento Baixado - Validade.md",
+    "Dúvida/Documento carrega e não vai.md",
     "Dúvida/Documento certificado selo.md",
     "Dúvida/DOCUMENTO FORMATO P7S.md",
     "Dúvida/Documento muito desfocado ou fora de foco.md",
@@ -173,8 +175,6 @@
     "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
     "Notas/ERRO Email/Erro 550 5.1.1 XXXXXXXX@XXXX- Recipient address rejected- User unknown in virtual mailbox table.md",
     "Notas/ERRO Email/Erro 550 5.4.1 Recipient address rejected- Access denied.md",
-    "Notas/ERRO Email/Erro 550 5.5.0 Requested action not taken- mailbox unavailable.md",
-    "Notas/ERRO Email/Erro 550 5.7.0 Server IP 149.72.131.217 listed as abusive.md",
     "Notas/ERRO WhastApp",
     "Dúvida/Jurídico",
     "Notas/Jurídico",
