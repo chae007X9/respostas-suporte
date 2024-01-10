@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T14:37
-Last Updated: 2023-04-17T14:47
-Created By: Cristian Scopel
-Last Edited By: Cristian Scopel
----
   
 
 Existem três opções para baixar os documentos no Autentique:

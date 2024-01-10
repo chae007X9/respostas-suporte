@@ -1,9 +1,3 @@
----
-Date Created: 2023-04-17T14:08
-Last Updated: 2023-07-06T17:25
-Created By: Cristian Scopel
-Last Edited By: CChaline Reis
----
 A Lei 14.063/2020 tem a definição das modalidades:
 
 "**II - assinatura eletrônica avançada:** a que utiliza certificados não emitidos pela ICP-Brasil ou outro meio de comprovação da autoria e da integridade de documentos em forma eletrônica, desde que admitido pelas partes como válido ou aceito pela pessoa a quem for oposto o documento..." e

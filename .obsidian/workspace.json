@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/DNS.md",
+                "file": "Notas/Desconto.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/DNS.md",
+                "file": "Notas/Desconto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/DNS.md",
+                "file": "Notas/Desconto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/DNS.md"
+                "file": "Notas/Desconto.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Dúvida/Diferença baixar.md",
+    "Dúvida/Jurídico/Diferença entre assinatura qualificada e avançada.md",
+    "Notas/ERRO Email/DNS.md",
     "Dúvida/Documento Baixado - Validade.md",
     "Dúvida/Documento carrega e não vai.md",
     "Dúvida/Documento certificado selo.md",
@@ -172,9 +175,6 @@
     "Notas/Help/User problema.md",
     "Notas/Help/Não sei como reagir.md",
     "Notas/Help/Não sabe quem é o criador do documento.md",
-    "Notas/ERRO Email/Erro 550 5.1.1 xxx- Recipient address rejected- User unknown in relay recipient table.md",
-    "Notas/ERRO Email/Erro 550 5.1.1 XXXXXXXX@XXXX- Recipient address rejected- User unknown in virtual mailbox table.md",
-    "Notas/ERRO Email/Erro 550 5.4.1 Recipient address rejected- Access denied.md",
     "Notas/ERRO WhastApp",
     "Dúvida/Jurídico",
     "Notas/Jurídico",
