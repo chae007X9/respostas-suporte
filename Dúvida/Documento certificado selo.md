@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T10:48
-Last Updated: 2023-11-16T10:49
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 O documento que você enviou não foi assinado com assinatura eletrônica qualificada. O validador do ITI irá verificar apenas as assinaturas eletrônicas qualificadas
 
   
