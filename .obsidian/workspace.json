@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Desconto.md",
+                "file": "Notas/Data planilha bugada.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Desconto.md",
+                "file": "Notas/Data planilha bugada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Desconto.md",
+                "file": "Notas/Data planilha bugada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Desconto.md"
+                "file": "Notas/Data planilha bugada.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Dúvida/Desconto.md",
     "Dúvida/Diferença baixar.md",
     "Dúvida/Jurídico/Diferença entre assinatura qualificada e avançada.md",
     "Notas/ERRO Email/DNS.md",
@@ -174,7 +175,6 @@
     "Notas/ERRO Email/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
     "Notas/Help/User problema.md",
     "Notas/Help/Não sei como reagir.md",
-    "Notas/Help/Não sabe quem é o criador do documento.md",
     "Notas/ERRO WhastApp",
     "Dúvida/Jurídico",
     "Notas/Jurídico",
