@@ -1,9 +1,3 @@
----
-Date Created: 2023-11-16T11:43
-Last Updated: 2023-11-16T11:43
-Created By: CChaline Reis
-Last Edited By: CChaline Reis
----
 Conseguimos identificar a causa do problema, mas não temos certeza se conseguimos resolver ele 😅
 
   

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Plataforma/Data planilha bugada.md",
+                "file": "Notas/DATA EUA.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Plataforma/Data planilha bugada.md",
+                "file": "Notas/DATA EUA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Plataforma/Data planilha bugada.md",
+                "file": "Notas/DATA EUA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Plataforma/Data planilha bugada.md"
+                "file": "Notas/DATA EUA.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f39aa9a0ce1afae",
+  "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/Plataforma/Data planilha bugada.md",
     "Notas/ERRO Email/Erro 550 5.7.0 Server IP 149.72.131.217 listed as abusive.md",
     "Notas/ERRO Email/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
     "Notas/ERRO Email/Email aberto.md",
-    "Notas/Plataforma/Data planilha bugada.md",
     "Dúvida/Desconto.md",
     "Dúvida/Diferença baixar.md",
     "Dúvida/Jurídico/Diferença entre assinatura qualificada e avançada.md",
