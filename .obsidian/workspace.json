@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Data planilha bugada.md",
+                "file": "Notas/ERRO Email/Erro 550 5.7.0 Server IP 149.72.131.217 listed as abusive.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Data planilha bugada.md",
+                "file": "Notas/ERRO Email/Erro 550 5.7.0 Server IP 149.72.131.217 listed as abusive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Data planilha bugada.md",
+                "file": "Notas/ERRO Email/Erro 550 5.7.0 Server IP 149.72.131.217 listed as abusive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Data planilha bugada.md"
+                "file": "Notas/ERRO Email/Erro 550 5.7.0 Server IP 149.72.131.217 listed as abusive.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "87a49fd68b7b2db5",
   "lastOpenFiles": [
+    "Notas/ERRO Email/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
+    "Notas/ERRO Email/Email aberto.md",
+    "Notas/Data planilha bugada.md",
     "Dúvida/Desconto.md",
     "Dúvida/Diferença baixar.md",
     "Dúvida/Jurídico/Diferença entre assinatura qualificada e avançada.md",
@@ -163,7 +166,6 @@
     "Dúvida/Documento tá valendo (validade).md",
     "Notas/Plataforma/Dois Templates.md",
     "Dúvida/Domínio congelado.md",
-    "Notas/ERRO Email/Email aberto.md",
     "Notas/ERRO Email/Email SPAM vai direto.md",
     "Notas/Plataforma/Erro  CARTAO 59.md",
     "Notas/Plataforma/Erro - 3 Tentativas.md",
@@ -172,9 +174,7 @@
     "Notas/Plataforma/Erro - Parte de baixo sumindo.md",
     "Notas/ERRO Email/Erro - Recipient address rejected- service policy error.md",
     "Notas/ERRO Email/Erro 550 5.1.1 Requested action not taken- mailbox unavailable.md",
-    "Notas/ERRO Email/Erro 550 5.1.1 The email account that you tried to reach does not exist.md",
     "Notas/Help/User problema.md",
-    "Notas/Help/Não sei como reagir.md",
     "Notas/ERRO WhastApp",
     "Dúvida/Jurídico",
     "Notas/Jurídico",
